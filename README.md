@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sua a Andréa 👋
 
 <!--
-**AndreaLais2/AndreaLais2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndreaLais2/AndreaLais2**
+💻 Estudante de Desenvolvimento Web
+🌐 Gosto de tecnologia com estética minimalista
+🚀 Em constante evolução
 
-Here are some ideas to get you started:
+##🛠️ Tecnologias que estou aprendendo
+🖱️ HYML
+🖱️ CSS
+🖱️ JavaScript
+🖱️ C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
