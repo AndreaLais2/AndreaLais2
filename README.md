@@ -1,6 +1,5 @@
 ## Olá, eu sua a Andréa 👋
 
-<!
 **AndreaLais2/AndreaLais2**
 💻 Estudante de Desenvolvimento Web
 🌐 Gosto de tecnologia com estética minimalista
